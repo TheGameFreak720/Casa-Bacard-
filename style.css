@@ -56,7 +56,7 @@ p {
   margin: 0;
   width: 100%;
   height: 800px;
-  background-image: url(../img/cuba.jpg);
+  background-image: url(./img/cuba.jpg);
   background-position: right;
 }
 
@@ -75,7 +75,7 @@ p {
 .visit {
   margin: 0;
   width: 100%;
-  background-image: url(../img/visit.jpg);
+  background-image: url(./img/visit.jpg);
 
 }
 
